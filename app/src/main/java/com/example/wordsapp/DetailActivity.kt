@@ -26,7 +26,7 @@ class DetailActivity : AppCompatActivity() {
     companion object{
         const val LETTER = "letter"
         const val SEARCH_PREFIX = "https://www.google.com/search?q="
-        const val SEARCH_SUFFIX = "+cambridge"
+        const val SEARCH_SUFFIX = "+meaning+cambridge"
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
